@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282607273273",
+    "firebase_url": "https://sistemas-distribuidos-2023-default-rtdb.firebaseio.com",
+    "project_id": "sistemas-distribuidos-2023",
+    "storage_bucket": "sistemas-distribuidos-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282607273273:android:87ec62649ae9ae5e5854e8",
+        "android_client_info": {
+          "package_name": "com.junebouvier.hockeyhomies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282607273273-lmrfe6iui99t5ntgo8ib485l1ou0f9o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUsjx5fRWWy7r9V4Qcj8PQb5xnYWtg2MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282607273273-lmrfe6iui99t5ntgo8ib485l1ou0f9o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
